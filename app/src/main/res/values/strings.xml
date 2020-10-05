@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tabela</string>
+    <string name="text_add_match">adicionar</string>
+    <string name="text_score">Pontos</string>
+    <string name="text_matchs">Jogos</string>
+    <string name="text_records">Record -</string>
+    <string name="text_season">Temporada -</string>
+    <string name="add_new_score">Adicionar novo placar</string>
+</resources>
